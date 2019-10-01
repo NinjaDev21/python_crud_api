@@ -123,8 +123,7 @@ def search_user():
 		cursor.execute("SELECT * FROM tbl_user WHERE user_name LIKE %s", (searchString,))
 		conn.commit()
 		row = cursor.fetchone()
-		resp = jsonify(row)
-		# resp = jsonify('User retrive successfully!')		
+		resp = jsonify(row)		
 		resp.status_code = 200
 		return resp
 	except Exception as e:
