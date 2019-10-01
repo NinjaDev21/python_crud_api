@@ -1,0 +1,25 @@
+Python API for CRUD and search operation using mysql database.
+
+1. Install python (if not present in the system ).
+	Type python and hit enter from the console.It will provide the information of the python or you can 
+	type python -V for the installed python version.
+
+2. Install the prerequisites
+	
+	# pip install flask_table
+	
+	# pip install flask-mysql 
+
+3. Connect with the database.
+
+	# Change the database config from the db_config.py file.
+
+4. Create the database table 
+	
+	# get the create table query from create_table file 
+
+5. Run the program 
+	
+	# go to the directory and run the main.py file ---- # python main.py 
+
+6. Sent or retrive the values from postmark to test the API.  
