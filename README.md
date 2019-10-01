@@ -1,9 +1,8 @@
 # python_crud_api
-Python REST API CRUD Example using Flask and MySQL
-
+Python REST API CRUD and Search Example using Flask and MySQL
 # Introduction
 
-Here we will see Python REST API CRUD Example using Flask and MySQL. 
+Here we will see Python REST API CRUD and Search Example using Flask and MySQL. 
 We have also seen how to create web application CRUD example using Python, Flak and MySQL.
 
 # Preparing your workspace
